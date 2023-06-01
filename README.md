@@ -1,4 +1,4 @@
-# tech-blog
+# The Tracker Reloaded
 
 ## Table of Contents
 - [Issues](#issues)
